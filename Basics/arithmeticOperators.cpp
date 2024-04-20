@@ -15,7 +15,7 @@ int main() {
   // % Modulus
   // ++ Increment
   // -- Decrement
-  // N.B: Modulus operator (%) returns the remainder of
+  // N.B: Modulus operator (%) returns the remainder of a division.
 
   int x = 10, y = 15;
   cout << x + y << endl;
